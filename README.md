@@ -78,7 +78,7 @@ mvn clean package
 java -jar target/Ejercicio1Lab-1.0-SNAPSHOT.jar
 ```
 **Uso del programa:**
-Para utilizar el programa deberás de seleccionar alguna de las opciones que aparezcan enlistadas en la terminal después de haber compilado y eejcutado el programa.
+Para utilizar el programa deberás de seleccionar alguna de las opciones que aparezcan enlistadas en la terminal después de haber compilado y ejecutado el programa.
 Seleccione una opción:
 1. Encontrar duplicado y faltante
 2. Encontrar prefijo común
